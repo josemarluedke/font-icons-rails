@@ -1,0 +1,238 @@
+[class^="icon-fa-"],
+[class*=" icon-fa-"] {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    height:auto !important;
+}
+
+.btn.dropdown-toggle [class^="icon-fa-"], .btn.dropdown-toggle [class*=" icon-fa-"] {
+    /* keeps button heights with and without icons the same */
+    line-height: 1.4em;
+}
+
+.icon-fa-glass                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf000;&nbsp;'); }
+.icon-fa-music                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf001;&nbsp;'); }
+.icon-fa-search               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf002;&nbsp;'); }
+.icon-fa-envelope             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf003;&nbsp;'); }
+.icon-fa-heart                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf004;&nbsp;'); }
+.icon-fa-star                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf005;&nbsp;'); }
+.icon-fa-star-empty           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf006;&nbsp;'); }
+.icon-fa-user                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf007;&nbsp;'); }
+.icon-fa-film                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf008;&nbsp;'); }
+.icon-fa-th-large             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf009;&nbsp;'); }
+.icon-fa-th                   { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf00a;&nbsp;'); }
+.icon-fa-th-list              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf00b;&nbsp;'); }
+.icon-fa-ok                   { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf00c;&nbsp;'); }
+.icon-fa-remove               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf00d;&nbsp;'); }
+.icon-fa-zoom-in              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf00e;&nbsp;'); }
+
+.icon-fa-zoom-out             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf010;&nbsp;'); }
+.icon-fa-off                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf011;&nbsp;'); }
+.icon-fa-signal               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf012;&nbsp;'); }
+.icon-fa-cog                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf013;&nbsp;'); }
+.icon-fa-trash                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf014;&nbsp;'); }
+.icon-fa-home                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf015;&nbsp;'); }
+.icon-fa-file                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf016;&nbsp;'); }
+.icon-fa-time                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf017;&nbsp;'); }
+.icon-fa-road                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf018;&nbsp;'); }
+.icon-fa-download-alt         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf019;&nbsp;'); }
+.icon-fa-download             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf01a;&nbsp;'); }
+.icon-fa-upload               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf01b;&nbsp;'); }
+.icon-fa-inbox                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf01c;&nbsp;'); }
+.icon-fa-play-circle          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf01d;&nbsp;'); }
+.icon-fa-repeat               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf01e;&nbsp;'); }
+
+.icon-fa-refresh              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf021;&nbsp;'); }
+.icon-fa-list-alt             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf022;&nbsp;'); }
+.icon-fa-lock                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf023;&nbsp;'); }
+.icon-fa-flag                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf024;&nbsp;'); }
+.icon-fa-headphones           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf025;&nbsp;'); }
+.icon-fa-volume-off           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf026;&nbsp;'); }
+.icon-fa-volume-down          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf027;&nbsp;'); }
+.icon-fa-volume-up            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf028;&nbsp;'); }
+.icon-fa-qrcode               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf029;&nbsp;'); }
+.icon-fa-barcode              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02a;&nbsp;'); }
+.icon-fa-tag                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02b;&nbsp;'); }
+.icon-fa-tags                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02c;&nbsp;'); }
+.icon-fa-book                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02d;&nbsp;'); }
+.icon-fa-bookmark             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02e;&nbsp;'); }
+.icon-fa-print                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf02f;&nbsp;'); }
+
+.icon-fa-camera               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf030;&nbsp;'); }
+.icon-fa-font                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf031;&nbsp;'); }
+.icon-fa-bold                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf032;&nbsp;'); }
+.icon-fa-italic               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf033;&nbsp;'); }
+.icon-fa-text-height          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf034;&nbsp;'); }
+.icon-fa-text-width           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf035;&nbsp;'); }
+.icon-fa-align-left           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf036;&nbsp;'); }
+.icon-fa-align-center         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf037;&nbsp;'); }
+.icon-fa-align-right          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf038;&nbsp;'); }
+.icon-fa-align-justify        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf039;&nbsp;'); }
+.icon-fa-list                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf03a;&nbsp;'); }
+.icon-fa-indent-left          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf03b;&nbsp;'); }
+.icon-fa-indent-right         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf03c;&nbsp;'); }
+.icon-fa-facetime-video       { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf03d;&nbsp;'); }
+.icon-fa-picture              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf03e;&nbsp;'); }
+
+.icon-fa-pencil               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf040;&nbsp;'); }
+.icon-fa-map-marker           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf041;&nbsp;'); }
+.icon-fa-adjust               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf042;&nbsp;'); }
+.icon-fa-tint                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf043;&nbsp;'); }
+.icon-fa-edit                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf044;&nbsp;'); }
+.icon-fa-share                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf045;&nbsp;'); }
+.icon-fa-check                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf046;&nbsp;'); }
+.icon-fa-move                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf047;&nbsp;'); }
+.icon-fa-step-backward        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf048;&nbsp;'); }
+.icon-fa-fast-backward        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf049;&nbsp;'); }
+.icon-fa-backward             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf04a;&nbsp;'); }
+.icon-fa-play                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf04b;&nbsp;'); }
+.icon-fa-pause                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf04c;&nbsp;'); }
+.icon-fa-stop                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf04d;&nbsp;'); }
+.icon-fa-forward              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf04e;&nbsp;'); }
+
+.icon-fa-fast-forward         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf050;&nbsp;'); }
+.icon-fa-step-forward         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf051;&nbsp;'); }
+.icon-fa-eject                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf052;&nbsp;'); }
+.icon-fa-chevron-left         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf053;&nbsp;'); }
+.icon-fa-chevron-right        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf054;&nbsp;'); }
+.icon-fa-plus-sign            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf055;&nbsp;'); }
+.icon-fa-minus-sign           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf056;&nbsp;'); }
+.icon-fa-remove-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf057;&nbsp;'); }
+.icon-fa-ok-sign              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf058;&nbsp;'); }
+.icon-fa-question-sign        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf059;&nbsp;'); }
+.icon-fa-info-sign            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf05a;&nbsp;'); }
+.icon-fa-screenshot           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf05b;&nbsp;'); }
+.icon-fa-remove-circle        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf05c;&nbsp;'); }
+.icon-fa-ok-circle            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf05d;&nbsp;'); }
+.icon-fa-ban-circle           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf05e;&nbsp;'); }
+
+.icon-fa-arrow-left           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf060;&nbsp;'); }
+.icon-fa-arrow-right          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf061;&nbsp;'); }
+.icon-fa-arrow-up             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf062;&nbsp;'); }
+.icon-fa-arrow-down           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf063;&nbsp;'); }
+.icon-fa-share-alt            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf064;&nbsp;'); }
+.icon-fa-resize-full          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf065;&nbsp;'); }
+.icon-fa-resize-small         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf066;&nbsp;'); }
+.icon-fa-plus                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf067;&nbsp;'); }
+.icon-fa-minus                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf068;&nbsp;'); }
+.icon-fa-asterisk             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf069;&nbsp;'); }
+.icon-fa-exclamation-sign     { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf06a;&nbsp;'); }
+.icon-fa-gift                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf06b;&nbsp;'); }
+.icon-fa-leaf                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf06c;&nbsp;'); }
+.icon-fa-fire                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf06d;&nbsp;'); }
+.icon-fa-eye-open             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf06e;&nbsp;'); }
+
+.icon-fa-eye-close            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf070;&nbsp;'); }
+.icon-fa-warning-sign         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf071;&nbsp;'); }
+.icon-fa-plane                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf072;&nbsp;'); }
+.icon-fa-calendar             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf073;&nbsp;'); }
+.icon-fa-random               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf074;&nbsp;'); }
+.icon-fa-comment              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf075;&nbsp;'); }
+.icon-fa-magnet               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf076;&nbsp;'); }
+.icon-fa-chevron-up           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf077;&nbsp;'); }
+.icon-fa-chevron-down         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf078;&nbsp;'); }
+.icon-fa-retweet              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf079;&nbsp;'); }
+.icon-fa-shopping-cart        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf07a;&nbsp;'); }
+.icon-fa-folder-close         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf07b;&nbsp;'); }
+.icon-fa-folder-open          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf07c;&nbsp;'); }
+.icon-fa-resize-vertical      { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf07d;&nbsp;'); }
+.icon-fa-resize-horizontal    { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf07e;&nbsp;'); }
+
+.icon-fa-bar-chart            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf080;&nbsp;'); }
+.icon-fa-twitter-sign         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf081;&nbsp;'); }
+.icon-fa-facebook-sign        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf082;&nbsp;'); }
+.icon-fa-camera-retro         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf083;&nbsp;'); }
+.icon-fa-key                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf084;&nbsp;'); }
+.icon-fa-cogs                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf085;&nbsp;'); }
+.icon-fa-comments             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf086;&nbsp;'); }
+.icon-fa-thumbs-up            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf087;&nbsp;'); }
+.icon-fa-thumbs-down          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf088;&nbsp;'); }
+.icon-fa-star-half            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf089;&nbsp;'); }
+.icon-fa-heart-empty          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf08a;&nbsp;'); }
+.icon-fa-signout              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf08b;&nbsp;'); }
+.icon-fa-linkedin-sign        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf08c;&nbsp;'); }
+.icon-fa-pushpin              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf08d;&nbsp;'); }
+.icon-fa-external-link        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf08e;&nbsp;'); }
+
+.icon-fa-signin               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf090;&nbsp;'); }
+.icon-fa-trophy               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf091;&nbsp;'); }
+.icon-fa-github-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf092;&nbsp;'); }
+.icon-fa-upload-alt           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf093;&nbsp;'); }
+.icon-fa-lemon                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf094;&nbsp;'); }
+.icon-fa-phone                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf095;&nbsp;'); }
+.icon-fa-check-empty          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf096;&nbsp;'); }
+.icon-fa-bookmark-empty       { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf097;&nbsp;'); }
+.icon-fa-phone-sign           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf098;&nbsp;'); }
+.icon-fa-twitter              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf099;&nbsp;'); }
+.icon-fa-facebook             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf09a;&nbsp;'); }
+.icon-fa-github               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf09b;&nbsp;'); }
+.icon-fa-unlock               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf09c;&nbsp;'); }
+.icon-fa-credit-card          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf09d;&nbsp;'); }
+.icon-fa-rss                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf09e;&nbsp;'); }
+
+.icon-fa-hdd                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a0;&nbsp;'); }
+.icon-fa-bullhorn             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a1;&nbsp;'); }
+.icon-fa-bell                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a2;&nbsp;'); }
+.icon-fa-certificate          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a3;&nbsp;'); }
+.icon-fa-hand-right           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a4;&nbsp;'); }
+.icon-fa-hand-left            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a5;&nbsp;'); }
+.icon-fa-hand-up              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a6;&nbsp;'); }
+.icon-fa-hand-down            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a7;&nbsp;'); }
+.icon-fa-circle-arrow-left    { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a8;&nbsp;'); }
+.icon-fa-circle-arrow-right   { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0a9;&nbsp;'); }
+.icon-fa-circle-arrow-up      { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0aa;&nbsp;'); }
+.icon-fa-circle-arrow-down    { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ab;&nbsp;'); }
+.icon-fa-globe                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ac;&nbsp;'); }
+.icon-fa-wrench               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ad;&nbsp;'); }
+.icon-fa-tasks                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ae;&nbsp;'); }
+
+.icon-fa-filter               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0b0;&nbsp;'); }
+.icon-fa-briefcase            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0b1;&nbsp;'); }
+.icon-fa-fullscreen           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0b2;&nbsp;'); }
+
+.icon-fa-group                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c0;&nbsp;'); }
+.icon-fa-link                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c1;&nbsp;'); }
+.icon-fa-cloud                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c2;&nbsp;'); }
+.icon-fa-beaker               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c3;&nbsp;'); }
+.icon-fa-cut                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c4;&nbsp;'); }
+.icon-fa-copy                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c5;&nbsp;'); }
+.icon-fa-paper-clip           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c6;&nbsp;'); }
+.icon-fa-save                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c7;&nbsp;'); }
+.icon-fa-sign-blank           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c8;&nbsp;'); }
+.icon-fa-reorder              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0c9;&nbsp;'); }
+.icon-fa-list-ul              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ca;&nbsp;'); }
+.icon-fa-list-ol              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0cb;&nbsp;'); }
+.icon-fa-strikethrough        { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0cc;&nbsp;'); }
+.icon-fa-underline            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0cd;&nbsp;'); }
+.icon-fa-table                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ce;&nbsp;'); }
+
+.icon-fa-magic                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d0;&nbsp;'); }
+.icon-fa-truck                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d1;&nbsp;'); }
+.icon-fa-pinterest            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d2;&nbsp;'); }
+.icon-fa-pinterest-sign       { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d3;&nbsp;'); }
+.icon-fa-google-plus-sign     { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d4;&nbsp;'); }
+.icon-fa-google-plus          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d5;&nbsp;'); }
+.icon-fa-money                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d6;&nbsp;'); }
+.icon-fa-caret-down           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d7;&nbsp;'); }
+.icon-fa-caret-up             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d8;&nbsp;'); }
+.icon-fa-caret-left           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0d9;&nbsp;'); }
+.icon-fa-caret-right          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0da;&nbsp;'); }
+.icon-fa-columns              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0db;&nbsp;'); }
+.icon-fa-sort                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0dc;&nbsp;'); }
+.icon-fa-sort-down            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0dd;&nbsp;'); }
+.icon-fa-sort-up              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0de;&nbsp;'); }
+
+.icon-fa-envelope-alt         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e0;&nbsp;'); }
+.icon-fa-linkedin             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e1;&nbsp;'); }
+.icon-fa-undo                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e2;&nbsp;'); }
+.icon-fa-legal                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e3;&nbsp;'); }
+.icon-fa-dashboard            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e4;&nbsp;'); }
+.icon-fa-comment-alt          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e5;&nbsp;'); }
+.icon-fa-comments-alt         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e6;&nbsp;'); }
+.icon-fa-bolt                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e7;&nbsp;'); }
+.icon-fa-sitemap              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e8;&nbsp;'); }
+.icon-fa-umbrella             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0e9;&nbsp;'); }
+.icon-fa-paste                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf0ea;&nbsp;'); }
+
+.icon-fa-user-md              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf200;&nbsp;'); }

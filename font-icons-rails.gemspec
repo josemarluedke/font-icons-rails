@@ -16,6 +16,5 @@ Gem::Specification.new do |s|
   s.files = Dir["{lib,vendor}/**/*"] + ["Rakefile", "README.rdoc"]
   s.test_files = []
 
-  s.add_runtime_dependency 'railties', '>= 3.1.1'
   s.add_runtime_dependency 'sass-rails', '>= 3.1.1'
 end

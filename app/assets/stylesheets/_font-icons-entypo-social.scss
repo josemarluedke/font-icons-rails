@@ -6,7 +6,6 @@ $entypo_social_font_path: "entypo-social" !default;
   src: font-url("#{$entypo_social_font_path}.eot?#iefix") unquote("format('eot')"),
        font-url("#{$entypo_social_font_path}.woff") unquote("format('woff')"),
        font-url("#{$entypo_social_font_path}.ttf") unquote("format('truetype')"),
-       font-url("#{$entypo_social_font_path}.svgz#EntypoSocial") unquote("format('svg')"),
        font-url("#{$entypo_social_font_path}.svg#EntypoSocial") unquote("format('svg')");
   font-weight: normal;
   font-style: normal;

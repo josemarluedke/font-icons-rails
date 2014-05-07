@@ -6,7 +6,6 @@ $entypo_remapped_font_path: "entyporemapped" !default;
   src: font-url("#{$entypo_remapped_font_path}.eot?#iefix") unquote("format('embedded-opentype')"),
        font-url("#{$entypo_remapped_font_path}.woff") unquote("format('woff')"),
        font-url("#{$entypo_remapped_font_path}.ttf") unquote("format('truetype')");
-       //font-url("#{$entypo_font_path}.svgz#EntypoRegular") unquote("format('svg')"),
        //font-url("#{$entypo_font_path}.svg#EntypoRegular") unquote("format('svg')");
   font-weight: normal;
   font-style: normal;
